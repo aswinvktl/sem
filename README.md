@@ -13,9 +13,9 @@ hahaha
 
 
 
-[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/aswinvktl/sem/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/aswinvktl/sem.svg?style=flat-square)](https://github.com/aswinvktl/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/aswinvktl/sem/releases)
+[![Releases](https://img.shields.io/github/release/aswinvktl/sem/all.svg?style=flat-square)](https://github.com/aswinvktl/sem/releases)
 
 https://img.shields.io/github/actions/workflow/status/aswinvktl/sem/main.yml?branch=develop
 
