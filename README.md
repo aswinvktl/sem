@@ -11,4 +11,4 @@ This is SEM
 
 [![Releases](https://img.shields.io/github/release/aswinvktl/sem/all.svg?style=flat-square)](https://github.com/aswinvktl/sem/releases)
 
-https://img.shields.io/github/actions/workflow/status/aswinvktl/sem/main?branch=develop
+https://img.shields.io/github/actions/workflow/status/aswinvktl/sem/main?branch=develop 
