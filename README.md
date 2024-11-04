@@ -10,3 +10,5 @@ This is SEM
 [![LICENSE](https://img.shields.io/github/license/aswinvktl/sem.svg?style=flat-square)](https://github.com/aswinvktl/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/aswinvktl/sem/all.svg?style=flat-square)](https://github.com/aswinvktl/sem/releases)
+
+https://img.shields.io/github/actions/workflow/status/aswinvktl/sem/main?branch=develop
